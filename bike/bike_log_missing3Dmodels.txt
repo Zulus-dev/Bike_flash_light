@@ -1,0 +1,1 @@
+[('BT1', 'C:\\Program Files\\KiCad\\9.0\\share\\kicad\\3dmodels\\Battery.3dshapes\\Battery_Panasonic_CR1025-VSK_Vertical_CircularHoles.step')]
