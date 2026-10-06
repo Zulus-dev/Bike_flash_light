@@ -1,5 +1,5 @@
 <img width="2880" height="2880" alt="20261006_161844-COLLAGE" src="https://github.com/user-attachments/assets/e76cc40e-7615-4d00-85d0-784ddc899e8f" />
-![Uploading 20261006_161900-ANIMATION.gif…]()
+<img width="1016" height="762" alt="20261006_161900-ANIMATION" src="https://github.com/user-attachments/assets/1732cf26-4fe9-4378-91e1-c02243683c0f" />
 
 [Описание_проекта_Bike_Light_v2.6.md](https://github.com/user-attachments/files/33106255/_._Bike_Light_v2.6.md)
 [Описание_веб_интерфейса_Bike_Light.md](https://github.com/user-attachments/files/33106147/_._._Bike_Light.md)# Веб-интерфейс Bike Light (ANTARES) — описание всех функций
